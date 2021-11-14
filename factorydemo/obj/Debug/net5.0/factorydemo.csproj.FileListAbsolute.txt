@@ -1,0 +1,16 @@
+C:\Users\SAILS-DM161\source\repos\factorydemo\factorydemo\bin\Debug\net5.0\factorydemo.exe
+C:\Users\SAILS-DM161\source\repos\factorydemo\factorydemo\bin\Debug\net5.0\factorydemo.deps.json
+C:\Users\SAILS-DM161\source\repos\factorydemo\factorydemo\bin\Debug\net5.0\factorydemo.runtimeconfig.json
+C:\Users\SAILS-DM161\source\repos\factorydemo\factorydemo\bin\Debug\net5.0\factorydemo.runtimeconfig.dev.json
+C:\Users\SAILS-DM161\source\repos\factorydemo\factorydemo\bin\Debug\net5.0\factorydemo.dll
+C:\Users\SAILS-DM161\source\repos\factorydemo\factorydemo\bin\Debug\net5.0\ref\factorydemo.dll
+C:\Users\SAILS-DM161\source\repos\factorydemo\factorydemo\bin\Debug\net5.0\factorydemo.pdb
+C:\Users\SAILS-DM161\source\repos\factorydemo\factorydemo\obj\Debug\net5.0\factorydemo.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM161\source\repos\factorydemo\factorydemo\obj\Debug\net5.0\factorydemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM161\source\repos\factorydemo\factorydemo\obj\Debug\net5.0\factorydemo.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM161\source\repos\factorydemo\factorydemo\obj\Debug\net5.0\factorydemo.AssemblyInfo.cs
+C:\Users\SAILS-DM161\source\repos\factorydemo\factorydemo\obj\Debug\net5.0\factorydemo.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM161\source\repos\factorydemo\factorydemo\obj\Debug\net5.0\factorydemo.dll
+C:\Users\SAILS-DM161\source\repos\factorydemo\factorydemo\obj\Debug\net5.0\ref\factorydemo.dll
+C:\Users\SAILS-DM161\source\repos\factorydemo\factorydemo\obj\Debug\net5.0\factorydemo.pdb
+C:\Users\SAILS-DM161\source\repos\factorydemo\factorydemo\obj\Debug\net5.0\factorydemo.genruntimeconfig.cache
